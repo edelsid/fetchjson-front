@@ -1,0 +1,9 @@
+.container {
+   margin: 40px;
+   padding: 20px;
+   width: 300px;
+   height: min-content;
+   border: 1px solid lightgray;
+   text-align: center;
+   font-family: 'Verdana';
+}
